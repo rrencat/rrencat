@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning all the ins and outs of front-end development. From plain HTML to creating apps with React.
-- :heart: Dog mom 
+- :heart: Dog mom
  - Her name is Kalinka (yes, I somethimes sing the song when I call on her)
 - When I’m not coding i like to:
  - :minibus: Explore in my self-converted campervan
